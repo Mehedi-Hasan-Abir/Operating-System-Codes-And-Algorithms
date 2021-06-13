@@ -1,5 +1,3 @@
-/*Credit: Md. Shafiur Rahman Dipu  */
-
 #include <bits/stdc++.h>
 using namespace std;
 
